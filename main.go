@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	v3 "github.com/mauricioabreu/ectoken-go/v3"
+	v3 "github.com/globocom/ectoken-go/v3"
 )
 
 func main() {
